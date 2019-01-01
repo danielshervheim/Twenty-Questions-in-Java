@@ -1,13 +1,12 @@
 /*
 	Provided code by Dan Shervheim
-	UMN 1103 TA Fall 2018
 
 	Additions made by student: <YOURX500HERE>
 	getIndexByName()
 	<ADD ANY OTHER METHODS YOU WRITE HERE>
 */
 
-public class Question
+public abstract class Question
 {
 	// attributes
 	protected Animal[] animals;

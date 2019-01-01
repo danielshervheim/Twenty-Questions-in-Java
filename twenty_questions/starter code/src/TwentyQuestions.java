@@ -1,6 +1,5 @@
 /*
 	Provided code by Dan Shervheim
-	UMN 1103 TA Fall 2018
 
 	Additions made by student: <YOURX500HERE>
 	main(String[] args)

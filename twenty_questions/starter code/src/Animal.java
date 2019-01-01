@@ -1,6 +1,5 @@
 /*
 	Provided code by Dan Shervheim
-	UMN 1103 TA Fall 2018
 
 	This file does not require any modification by the students.
 */

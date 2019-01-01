@@ -1,7 +1,4 @@
 /*
-	Provided code by Dan Shervheim
-	UMN 1103 TA Fall 2018
-
 	Adapted from:
 	https://gist.github.com/dainkaplan/4651352
 
